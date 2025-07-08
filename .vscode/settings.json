@@ -1,0 +1,16 @@
+{
+    "editor.fontSize": 16,
+    "editor.lineHeight": 1.6,
+    "editor.tabSize": 2,
+    "editor.minimap.enabled": true,
+    "editor.wordWrap": "on",
+    "files.autoSave": "afterDelay",
+    "editor.glyphMargin": true,
+    //zen mode
+    "zenMode.fullScreen": false,
+    "zenMode.centerLayout": false,
+    "zenMode.showTabs": "single",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.inlineSuggest.suppressSuggestions": true
+}
